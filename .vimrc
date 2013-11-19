@@ -150,8 +150,6 @@ Bundle 'terryma/vim-multiple-cursors'
 Bundle 'trailing-whitespace'
 
 Bundle 'nathanaelkane/vim-indent-guides'
-let g:indent_guides_enable_on_vim_startup=1
-let g:indent_guides_guide_size=1
 
 Bundle '_jsbeautify'
 nnoremap <leader>_ff :call g:Jsbeautify()<CR>
@@ -221,7 +219,7 @@ let g:tagbar_type_go = {
 
 " C familiy bundles
 Bundle 'c.vim'
-Bundle 'valloric/YouCompleteMe'
+" Bundle 'valloric/YouCompleteMe'
 
 "}
 
