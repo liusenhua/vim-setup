@@ -13,9 +13,9 @@ My vim configuiration
 
 	1.	Download this config file
 
-		``` 
-			git clone https://github.com/liusenhua/vim-setup.git ~/vim-setup
-			cp ~/vim-setup/.vimrc ~
+		```
+		git clone https://github.com/liusenhua/vim-setup.git ~
+		cp ~/vim-setup/.vimrc ~
 		```
 
 
